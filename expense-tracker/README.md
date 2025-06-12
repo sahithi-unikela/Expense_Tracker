@@ -50,8 +50,8 @@ A full-stack Expense Tracker Web Application using the MERN stack (MongoDB, Expr
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/sahithi-unikela/Expense_Tracker
+cd Expense_Tracker
 ```
 
 2. Install server dependencies:
@@ -68,7 +68,7 @@ npm install
 
 4. Create a `.env` file in the server directory with the following:
 ```
-MONGO_URI=mongodb://localhost:27017/expense-tracker
+MONGO_URI=mongodb://localhost:27017/Expense_Tracker
 JWT_SECRET=your_jwt_secret_key
 PORT=5000
 ```
